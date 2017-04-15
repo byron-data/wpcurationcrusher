@@ -1,0 +1,2 @@
+# wpcurationcrusher
+WordPress Curation Plugin
